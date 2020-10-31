@@ -1,0 +1,21 @@
+{
+  "name": "setup",
+  "description": "Blog Using Node",
+  "main": "server.js",
+  "authors": [
+    "Piyush"
+  ],
+  "license": "ISC",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "^1.6.2",
+    "angular": "^1.6.2"
+  }
+}
